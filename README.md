@@ -44,9 +44,6 @@ We ❤️ contributions!
 
 ---
 
-## 📄 License
-
-MIT License – because sharing is caring. 🤝  
 
 ---
 
